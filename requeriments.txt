@@ -1,0 +1,9 @@
+pip install openai==0.28
+pip install ipython
+pip install python-dotenv
+pip install notebook
+pip install --upgrade pip setuptools wheel
+pip install torch torchvision
+pip install tensorflow
+pip install tensorflow-gpu
+pip install transformers torch
